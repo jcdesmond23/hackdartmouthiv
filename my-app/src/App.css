@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Compacta";
+  src: url("../public/fonnts.com-Compacta-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Puente";
+  src: url("../public/Puente.ttf");
+}
+
+@font-face {
+  font-family: "Avant Garde";
+  src: url("../public/AvantGardeMedium.ttf");
+}
+
+@font-face {
+  font-family: "Avant Garde LT";
+  src: url("../public/AvantGardeLTMedium.ttf");
+}
