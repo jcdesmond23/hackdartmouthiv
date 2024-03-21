@@ -5,9 +5,9 @@ export default function WelcomeSection() {
                 <div className="bg-[url('../public/Grid.png')] bg-center h-[1118px] ">
                     <div className="flex flex-col items-center">
                         <div className="mt-32 flex flex-row relative justify-between w-screen">
-                            <img src="/color-bar-left.png" alt="Color Bar Left" className="object-left"/>
+                            <img src="/color-bar-left.png" alt="Color Bar Left Side" className="object-left"/>
                             <h1 className="mx-2 text-center text-[54px] font-avant-garde inline-block font-normal bg-title bg-clip-text text-transparent leading-none">WELCOME TO HACKDARTMOUTH IV</h1>
-                            <img src="/color-bar-right.png" alt="Color Bar Right" className="object-right"/>
+                            <img src="/color-bar-right.png" alt="Color Bar Right Side" className="object-right"/>
                         </div>
                         <div className="mt-10 border-2 bg-black py-[22px] px-[134px] border-[#9F7300]">
                             <h1 className="text-center text-6xl font-avant-garde inline-block font-normal bg-gradient-to-b from-white to-[#9F7300] to-80% bg-clip-text text-transparent">NOW IN FULL COLOR</h1>
