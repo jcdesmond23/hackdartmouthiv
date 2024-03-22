@@ -20,7 +20,11 @@ export default function WelcomeSection() {
                         </div>
                         <h1 className="text-white text-xl font-avant-garde">IN PRIZES AND REWARDS | 24 HOUR LIMIT</h1>
                         <hr className="w-8/12 my-6 h-1 mx-auto bg-white border-0"></hr>
-                        <h1 className="text-[150px] font-compacta text-white font-normal -my-12">REGISTER NOW</h1>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwUfoLNV0ZoQ9kCWdzBtB6T9VBRMymG9HJPiLx9M0hpCVaKA/viewform?usp=sf_link" target="_blank">
+                            <div className="flex justify-center items-center">
+                                <h1 className="text-[150px] font-compacta text-white font-normal -my-12 w-full block hover:scale-110">REGISTER NOW</h1>
+                            </div>
+                        </a>
                         <p className="text-white text-xl font-avant-garde my-6">
                             HACK WITH A <span className="text-[#FA00FF]">BLAST</span> FROM THE <span className="text-[#FA00FF]">PAST</span>
                         </p>
