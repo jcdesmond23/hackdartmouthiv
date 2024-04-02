@@ -4,7 +4,7 @@ export default function SponsorsSection() {
         <div className="flex flex-col items-center relative w-screen bg-black">
             <div className="flex flex-col items-center relative bg-sponsors-background">
                 <div>
-                    <h1 className="mt-10 text-[200px] tracking-tight font-avant-garde-lt inline-block font-bold bg-sponsors-title bg-clip-text text-transparent">SPONSORS</h1>
+                    <h1 className="mt-10 md:text-[200px] text-[80px] tracking-tight font-avant-garde-lt inline-block font-bold bg-sponsors-title bg-clip-text text-transparent">SPONSORS</h1>
                 </div>
                 <div className="grid">
                     <div className="flex flex-row justify-between w-screen relative col-start-1 row-start-1">
