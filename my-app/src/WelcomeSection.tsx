@@ -3,6 +3,9 @@ export default function WelcomeSection() {
         <>
             <div className="bg-black">
                 <div className="bg-[url('../public/Grid.png')] bg-center h-[1118px] ">
+                    <a id="mlh-trust-badge" className="block max-w-['100px'] min-w-['60px'] fixed w-[8%] z-[1000] top-0 right-10" href="https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2024-season&utm_content=white" target="_blank">
+                        <img src="https://s3.amazonaws.com/logged-assets/trust-badge/2024/mlh-trust-badge-2024-white.svg" alt="Major League Hacking 2024 Hackathon Season" style={{width:'100%'}}/>
+                    </a>
                     <div className="flex flex-col items-center">
                         <div className="mt-32 flex flex-row relative justify-between w-screen">
                             <img src="/color-bar-left.png" alt="Color Bar Left Side" className="object-left"/>
@@ -18,7 +21,7 @@ export default function WelcomeSection() {
                                 <h1 className="bg-contain leading-[.8] inline-block bg-[url('../public/rainbow.jpeg')] text-[400px] font-puente bg-clip-text text-transparent col-start-1 row-start-1 blur">$8K</h1>
                             </div>
                         </div>
-                        <h1 className="text-white text-xl font-avant-garde">IN PRIZES AND REWARDS | 24 HOUR LIMIT</h1>
+                        <h1 className="text-white text-xl font-avant-garde">IN PRIZES AND REWARDS | 24 HOUR LIMIT | APRIL 20TH & 21ST</h1>
                         <hr className="w-8/12 my-6 h-1 mx-auto bg-white border-0"></hr>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwUfoLNV0ZoQ9kCWdzBtB6T9VBRMymG9HJPiLx9M0hpCVaKA/viewform?usp=sf_link" target="_blank">
                             <div className="flex justify-center items-center">
