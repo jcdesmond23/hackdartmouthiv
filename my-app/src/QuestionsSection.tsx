@@ -20,7 +20,7 @@ export default function QuestionsSection() {
                       <FAQ title="What kind of workshops/activities will there be?" content="We host a variety of workshops and activities each year. We're still finalizing the list for HackDartmouth IV, but it'll include how to get started in web dev, how to deploy your product, some design basics, and more!" />
                       <FAQ title="How can I be a part of HackDartmouth?" content="We're always looking for new members excited about putting together hackathons! Generally, we send out a recruiting email in the Fall, but feel free to reach out to us at team@hackdartmouth.org if you're interested in joining in the off-season" />
                       <FAQ title="What if I have other questions?" content="Shoot us an email at team@hackdartmouth.org and we’ll get back to you as soon as we can!" />
-                      <FAQ title="MLH code of conduct" content="The MLH Code of Conduct can be found on their website" />
+                      <FAQ title="MLH code of conduct" content="The MLH Code of Conduct can be found at hackp.ac/coc" />
                   </div>
               </div>
 
